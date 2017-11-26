@@ -1,5 +1,5 @@
 # 평균 구하는 코드 짜보기 1.
-
+#
 def Mean(list):  # ㅡㅡ> 함수이름을 Mean 이라고 함.
 	v = 0
 	for i in list:
